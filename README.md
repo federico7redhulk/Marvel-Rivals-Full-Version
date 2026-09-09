@@ -238,3 +238,6 @@ This repository serves as the official landing page for Marvel Rivals. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Marvel Rivals today!**
+
+---
+**Last updated:** 2026-09-09 18:28:39 UTC
