@@ -240,4 +240,4 @@ This repository serves as the official landing page for Marvel Rivals. The softw
 **Get the most recent version of Marvel Rivals today!**
 
 ---
-**Last updated:** 2026-09-24 22:17:38 UTC
+**Last updated:** 2026-09-25 01:22:22 UTC
